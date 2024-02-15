@@ -21,11 +21,7 @@
             <td>${item.age}</td>
         </tr>
     </c:forEach>
-
     </tbody>
 </table>
-
-
 </body>
-
 </html>
